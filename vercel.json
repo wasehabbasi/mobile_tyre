@@ -1,5 +1,4 @@
 {
   "buildCommand": "pnpm --filter mobile-tyre-service run build",
-  "outputDirectory": "artifacts/mobile-tyre-service/src",
   "framework": "vite"
 }
