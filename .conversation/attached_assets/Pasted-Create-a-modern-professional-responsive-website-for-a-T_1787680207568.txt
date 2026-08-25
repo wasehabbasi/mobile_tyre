@@ -1,0 +1,485 @@
+Create a modern, professional, responsive website for a **Tyre Fitting & Mobile Tyre Service business in the UK**.
+
+I want the website to have a similar overall structure and user experience to this reference website:
+
+https://akmobiletyrefitting.uk/
+
+Do NOT copy the branding, text, images, logo, or exact design. Use the reference only for inspiration regarding the structure, sections, navigation, and tyre-service business flow.
+
+## Business Type
+
+This is a professional UK tyre fitting and mobile tyre service company.
+
+The website should focus on:
+
+* Mobile tyre fitting
+* Emergency tyre fitting
+* Tyre replacement
+* Tyre repair
+* New tyres
+* Puncture repair
+* Tyre fitting at home/work
+* Emergency roadside tyre service
+* Online/contact enquiries
+
+The website should look trustworthy, modern, fast, and professional, with a strong focus on getting customers to **call or contact the business immediately**.
+
+## Design
+
+Use a premium automotive/tyre-service visual style.
+
+Design requirements:
+
+* Modern and clean UI
+* Professional UK automotive business appearance
+* Strong hero section
+* High-quality tyre/car imagery
+* Dark automotive-inspired design with strong contrasting CTA buttons
+* Excellent typography
+* Plenty of whitespace
+* Mobile-first responsive design
+* Smooth animations and hover effects, but keep them subtle and professional
+* Fully responsive on desktop, tablet and mobile
+* Fast loading
+* SEO-friendly structure
+
+Do not make the website look like a generic AI-generated template.
+
+## Header / Navigation
+
+Create a sticky professional header containing:
+
+* Company logo
+* Home
+* About Us
+* Mobile Tyre Fitting
+* Tyres
+* Tyre Repair
+* Services
+* Contact Us
+
+Include a highly visible **Call Now** CTA button in the header.
+
+On mobile, use a clean hamburger menu.
+
+## IMPORTANT: Floating Contact Buttons
+
+This is mandatory.
+
+Add two fixed floating buttons on the right side of the website that remain visible while scrolling:
+
+1. **WhatsApp button**
+
+   * WhatsApp icon
+   * Green WhatsApp-style appearance
+   * Clicking it should open WhatsApp chat
+   * Use a configurable WhatsApp phone number placeholder
+
+2. **Phone / Call button**
+
+   * Phone icon
+   * Clicking it should initiate a phone call using `tel:`
+   * Use a configurable UK phone number placeholder
+
+Example placeholders:
+
+WhatsApp: `+44XXXXXXXXXX`
+Phone: `+44XXXXXXXXXX`
+
+The floating buttons must work on both desktop and mobile.
+
+On mobile, make them especially prominent and easy to tap.
+
+## Homepage
+
+Create a strong homepage with the following sections.
+
+### Hero Section
+
+Large, professional automotive image/background.
+
+Headline example:
+
+**24/7 Mobile Tyre Fitting at Your Location**
+
+Supporting text:
+
+**Fast, reliable and professional tyre fitting wherever you need us. Home, work or roadside — we come to you.**
+
+Primary CTA:
+**Call Now**
+
+Secondary CTA:
+**WhatsApp Us**
+
+Add trust indicators such as:
+
+* Fast Response
+* Professional Tyre Fitters
+* Available 24/7
+* We Come To You
+
+### Quick Service Section
+
+Create attractive service cards for:
+
+* Mobile Tyre Fitting
+* Emergency Tyre Fitting
+* Tyre Replacement
+* Puncture Repair
+* New Tyres
+* Tyre Repair
+
+Each card should have an appropriate icon/image and a short description.
+
+### Why Choose Us
+
+Create a professional section explaining why customers should choose this company.
+
+Include:
+
+* Fast Response
+* Mobile Service
+* Competitive Prices
+* Experienced Technicians
+* Quality Tyres
+* Professional Service
+* Available 24/7
+* We Come To You
+
+### Mobile Tyre Fitting
+
+Create a dedicated section explaining:
+
+**We Come To You**
+
+Explain that customers don't need to visit a tyre shop. The technician can come to their:
+
+* Home
+* Workplace
+* Roadside
+* Car park
+* Other suitable location
+
+Include a strong CTA:
+**Book Mobile Tyre Fitting**
+
+### Emergency Tyre Service
+
+Create a prominent emergency service section.
+
+Example messaging:
+
+**Stranded with a Flat or Damaged Tyre?**
+
+Call us and our mobile tyre fitting team will come to your location as quickly as possible.
+
+CTA:
+**Call Now**
+
+### Tyres Section
+
+Create a tyre section where customers can see different tyre categories.
+
+Include:
+
+* Car Tyres
+* Van Tyres
+* 4x4 / SUV Tyres
+* Performance Tyres
+* Budget Tyres
+* Premium Tyres
+
+Add a CTA:
+**Find Your Tyres**
+
+The tyre/product data should be structured so that it can later be connected to a database or tyre supplier API.
+
+### How It Works
+
+Create a simple 3-step or 4-step process:
+
+1. Contact Us
+2. Tell Us Your Location & Tyre Requirements
+3. We Come To You
+4. Tyre Fitted & You're Back On The Road
+
+Use attractive icons and a clean visual timeline.
+
+### Reviews / Testimonials
+
+Create a customer reviews section with several realistic placeholder testimonials.
+
+Include:
+
+* Customer name
+* Star rating
+* Short review
+
+Make the section easy to replace with real Google reviews later.
+
+### Service Areas
+
+Create a service-area section.
+
+Use configurable UK location placeholders, for example:
+
+* London
+* Birmingham
+* Manchester
+* Leeds
+* Liverpool
+* Nottingham
+* Leicester
+* Surrounding Areas
+
+Do not hard-code these as the final locations; make them easy to edit later.
+
+### FAQ
+
+Create a professional FAQ section with questions such as:
+
+* Do you provide mobile tyre fitting?
+* Are you available 24/7?
+* Can you come to my home or workplace?
+* How quickly can you arrive?
+* Do you repair punctures?
+* Can you replace a damaged tyre?
+* What types of vehicles do you cover?
+* How can I contact you?
+* Do you provide emergency roadside tyre fitting?
+
+Use an accordion UI.
+
+### Final CTA
+
+At the bottom of the homepage create a strong CTA section:
+
+**Need a Tyre Fitted? We Come To You.**
+
+Buttons:
+
+**Call Now**
+
+**WhatsApp Us**
+
+## About Us Page
+
+Create a professional About Us page explaining:
+
+* Company introduction
+* Experience
+* Professional tyre technicians
+* Customer-focused service
+* Mobile tyre fitting
+* Commitment to fast and reliable service
+
+Include a professional automotive image.
+
+## Mobile Tyre Fitting Page
+
+Create a dedicated detailed page explaining the mobile tyre fitting service.
+
+Include:
+
+* What mobile tyre fitting is
+* How it works
+* Benefits
+* Where we can come
+* Types of vehicles
+* Emergency service
+* CTA buttons for Call and WhatsApp
+
+## Tyre Repair Page
+
+Create a detailed tyre repair page.
+
+Cover:
+
+* Puncture repair
+* Damaged tyres
+* Tyre inspection
+* When a tyre can be repaired
+* When a tyre needs replacement
+
+Include strong contact CTAs.
+
+## Tyres Page
+
+Create a dedicated tyres page with a professional tyre/product layout.
+
+Each tyre card should be capable of displaying:
+
+* Brand
+* Model
+* Tyre size
+* Width
+* Profile
+* Rim size
+* Speed rating
+* Load rating
+* Price
+* Availability
+* Fitting option
+
+Add filters for:
+
+* Tyre size
+* Brand
+* Price
+* Vehicle type
+* Premium / Budget
+
+For now, use realistic placeholder product data, but structure the application so real tyre inventory/API integration can be added later.
+
+## Services Page
+
+Create a complete services overview containing:
+
+* Mobile Tyre Fitting
+* Emergency Tyre Fitting
+* Tyre Replacement
+* Puncture Repair
+* Tyre Inspection
+* New Tyres
+* Van Tyres
+* 4x4 Tyres
+* Roadside Assistance
+
+Each service should have its own card and CTA.
+
+## Contact Page
+
+Create a professional Contact Us page.
+
+Include:
+
+* Phone number
+* WhatsApp
+* Email
+* Service area
+* Opening hours / 24/7 availability
+* Contact form
+* Google Maps section placeholder
+
+Contact form fields:
+
+* Name
+* Phone
+* Email
+* Vehicle Registration
+* Tyre Size
+* Service Required
+* Location
+* Message
+
+Add:
+**Request a Call Back**
+
+## Footer
+
+Create a professional footer containing:
+
+* Logo
+* Short company description
+* Quick links
+* Services
+* Contact information
+* Phone
+* WhatsApp
+* Email
+* Service areas
+* Opening hours
+* Social media icons
+* Privacy Policy
+* Terms & Conditions
+* Cookie Policy
+
+## SEO
+
+Make the website SEO-friendly.
+
+Implement:
+
+* Proper semantic HTML
+* SEO-friendly page titles
+* Meta descriptions
+* H1/H2/H3 hierarchy
+* Open Graph metadata
+* Local business structured data / Schema.org
+* Service-specific pages
+* Location/service-area SEO structure
+* Fast page loading
+* Mobile-friendly layout
+
+Target keywords should naturally include terms such as:
+
+"mobile tyre fitting"
+"mobile tyre fitting near me"
+"emergency tyre fitting"
+"mobile tyre service"
+"tyre fitting"
+"tyre repair"
+"puncture repair"
+"24 hour tyre fitting"
+"emergency tyre service"
+
+Do not keyword-stuff the content.
+
+## Technical Requirements
+
+Build the website using a clean modern architecture.
+
+Requirements:
+
+* React
+* Modern responsive CSS
+* Reusable components
+* Clean component structure
+* Responsive navigation
+* Reusable CTA components
+* Reusable service cards
+* Reusable tyre/product cards
+* Reusable testimonial cards
+* Reusable FAQ accordion
+* Proper form validation
+* Accessible buttons and navigation
+* Good Lighthouse performance
+* SEO-friendly routing
+
+Keep all business information configurable so the phone number, WhatsApp number, email, company name, address, service areas and opening hours can easily be changed later.
+
+## Very Important CTA Behavior
+
+Throughout the website, strategically place:
+
+**Call Now**
+
+**WhatsApp Us**
+
+**Get a Quote**
+
+**Book Mobile Tyre Fitting**
+
+The WhatsApp button must open WhatsApp directly.
+
+The phone button must use a `tel:` link.
+
+The floating WhatsApp and Phone buttons must always remain visible while scrolling.
+
+## Overall Goal
+
+The primary goal of this website is to convert visitors into customers.
+
+A customer should be able to land on the website and within a few seconds:
+
+1. Understand that this is a mobile tyre fitting service.
+2. Understand that the company comes to their location.
+3. See that emergency service is available.
+4. Call the company immediately.
+5. Contact the company through WhatsApp.
+6. Request a quote or tyre fitting.
+
+Make the final result look like a **real, established UK tyre service company website**, not a basic template.
+
+Use realistic placeholder company information for now and clearly structure it so I can replace the business details later.

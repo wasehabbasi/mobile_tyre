@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Mobile Tyre Service Website"
+description = "A responsive UK mobile tyre fitting website designed to turn visitors into customers through fast call, WhatsApp, quote, and booking actions."
+version = "1.0.0"
+id = "artifacts/mobile-tyre-service"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25633
+
+[services.development]
+run = "pnpm --filter @workspace/mobile-tyre-service run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/mobile-tyre-service", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/mobile-tyre-service/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25633"
+BASE_PATH = "/"
